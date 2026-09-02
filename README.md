@@ -6,3 +6,4 @@ projeto de um veiculo mecatronico usando sucata de lixo eletronico
 - Victor Garcia
 - Matheus Guedes 
 - Luccena
+- Eduardo
